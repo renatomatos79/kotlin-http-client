@@ -1,0 +1,1 @@
+data class ServiceType (var id: Int, var name: String, var value: Double)
