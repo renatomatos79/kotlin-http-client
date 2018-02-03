@@ -1,0 +1,19 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "aluguel",
+      "value": 100.25
+    },
+    {
+      "id": 2,
+      "name": "venda",
+      "value": 500
+    },
+    {
+      "id": 3,
+      "name": "manutenção",
+      "value": 125.99
+    }
+  ]
+}
